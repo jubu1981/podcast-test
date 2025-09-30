@@ -10,6 +10,7 @@ We're talking about Generative AI tools like ChatGPT, Dall-E*2, Hugging Face by 
 
 You have a chance to hear from people who are not just talking about, but building the next generation tools like Open AI and leaders who've worked for and with Fortune 500 companies like Microsoft, Google, LinkedIn,  IBM,  Open AI and more.
 
+Join the conversation and stay updated by following us on social media and subscribing to our newsletter for the latest episodes and insights.
 ---
 ## More Info
 - [The Future in Tech Page](https://go.raybo.org/tfit)
